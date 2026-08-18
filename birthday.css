@@ -1,0 +1,131 @@
+body{
+    margin:0;
+    background:linear-gradient(rgb(168, 227, 249),pink) ;
+}
+.main{
+  display:flex;
+   justify-content: start;
+   flex-direction: column;
+   align-items: center;
+ 
+ text-align: center;
+}
+.photo{
+    border-radius: 100%;
+    width: 250px;
+    border: 10px solid pink
+}
+.font {
+  font-family: "Happy Monkey", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color:white;
+ text-shadow: 3px 3px 3px black;
+}
+#age{
+   background: pink;
+   text-align: center;
+   padding:9px 10px;
+   border-radius: 10px;
+   margin-bottom: 5px;
+}
+#date{
+  margin-top: 4px;
+  text-align: center;
+  background: pink;
+  padding:5px 7px;
+  border-radius: 10px;
+}
+.ques{
+  font-family: "Happy Monkey", system-ui;
+  color:white;
+  margin-bottom: 6px;
+}
+  
+
+.hint{
+font-family: "Happy Monkey", system-ui;
+color:white;
+text-shadow: 0px 0px 1px black;
+margin-top: 4px;
+}
+.gift-1{
+  margin-top: 10px;
+  height:400px;
+  width: 400px;
+  background-image: url("../images/gift copy.tiff");
+  background-size: cover;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+}
+.gift-1:hover{
+  background-image: url("../images/happy.gif");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.gift-2{
+  margin-top: 10px;
+  height:400px;
+  width: 400px;
+  background-image: url("../images/gift copy.tiff");
+  background-size: cover;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+}
+.gift-2:hover{
+  background-image: url("../images/q2.gif");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.gift-3{
+  margin-top: 10px;
+  height:400px;
+  width: 400px;
+  background-image: url("../images/gift copy.tiff");
+  background-size: cover;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+}
+.gift-3:hover{
+  background-image: url("../images/genius.gif");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.gift-4{
+  margin-top: 10px;
+  height:400px;
+  width: 400px;
+  background-image: url("../images/gift copy.tiff");
+  background-size: cover;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+}
+.gift-4:hover{
+  background-image: url("../images/slay.gif");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.gift-5{
+  margin-top: 10px;
+  height:200px;
+  width: 400px;
+  background-image: url("../images/gift copy.tiff");
+  background-size: cover;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+}
+.gift-5:hover{
+  background-image: url("../images/cheers.gif");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
