@@ -53,14 +53,14 @@ margin-top: 4px;
   margin-top: 10px;
   height:400px;
   width: 400px;
-  background-image: url("../images/gift copy.tiff");
+  background-image: url("images/gift copy.tiff");
   background-size: cover;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 50px;
 }
 .gift-1:hover{
-  background-image: url("../images/happy.gif");
+  background-image: url("images/happy.gif");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -69,14 +69,14 @@ margin-top: 4px;
   margin-top: 10px;
   height:400px;
   width: 400px;
-  background-image: url("../images/gift copy.tiff");
+  background-image: url("images/gift copy.tiff");
   background-size: cover;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 50px;
 }
 .gift-2:hover{
-  background-image: url("../images/q2.gif");
+  background-image: url("images/q2.gif");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -85,14 +85,14 @@ margin-top: 4px;
   margin-top: 10px;
   height:400px;
   width: 400px;
-  background-image: url("../images/gift copy.tiff");
+  background-image: url("images/gift copy.tiff");
   background-size: cover;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 50px;
 }
 .gift-3:hover{
-  background-image: url("../images/genius.gif");
+  background-image: url("images/genius.gif");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -101,14 +101,14 @@ margin-top: 4px;
   margin-top: 10px;
   height:400px;
   width: 400px;
-  background-image: url("../images/gift copy.tiff");
+  background-image: url("images/gift copy.tiff");
   background-size: cover;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 50px;
 }
 .gift-4:hover{
-  background-image: url("../images/slay.gif");
+  background-image: url("images/slay.gif");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -117,14 +117,14 @@ margin-top: 4px;
   margin-top: 10px;
   height:200px;
   width: 400px;
-  background-image: url("../images/gift copy.tiff");
+  background-image: url("images/gift copy.tiff");
   background-size: cover;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 50px;
 }
 .gift-5:hover{
-  background-image: url("../images/cheers.gif");
+  background-image: url("images/cheers.gif");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
