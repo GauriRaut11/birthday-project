@@ -1,33 +1,35 @@
-Counter App
+ Birthday Project
 
-A simple people counter web application built using HTML, CSS, and JavaScript.
+A fun and interactive birthday webpage created as a personalized digital birthday card. The page combines HTML and CSS to create a colorful birthday experience with interactive gift boxes and surprise GIFs.
 
-Features
-Increment the counter when a person enters
-Save the current count
-Display previous entries
-Simple and interactive user interface
-Technologies Used
+✨ Features
+🎉 Personalized birthday greeting
+🎂 Displays the birthday person's age and date
+🎁 Interactive gift boxes with hover effects
+🎬 Surprise GIFs revealed when hovering over the gifts
+💖 Colorful gradient background and custom styling
+✨ Google Fonts for a playful design
+
+
+🛠️ Technologies Used
 HTML
 CSS
-JavaScript
-What I Learned
-JavaScript variables and functions
-DOM manipulation
-Event handling
-Updating HTML elements using JavaScript
-Basic CSS styling
-Using Git and GitHub
-How to Run
+Google Fonts
 
-Open index.html in a browser.
+💡 What I Learned
+Through this project, I practiced:
+Structuring webpages using HTML
+Styling webpages using CSS
+Using CSS classes and IDs
+Creating interactive hover effects with :hover
+Working with background images and GIFs
+Using external fonts with Google Fonts
+Organizing project assets into folders
+Publishing a project using GitHub and GitHub Pages
 
-Live Demo
 
-Coming soon.
 
-Future Improvements
-Add a reset button
-Improve the UI and animations
-Add responsive design
-Store entries using local storage
+
+
+
+
