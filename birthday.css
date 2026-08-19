@@ -50,6 +50,8 @@ text-shadow: 0px 0px 1px black;
 margin-top: 4px;
 }
 .gift-1{
+  border: 5px solid white;
+  border-radius: 6px;
   margin-top: 10px;
   height:400px;
   width: 400px;
@@ -66,6 +68,8 @@ margin-top: 4px;
   background-position: center;
 }
 .gift-2{
+  border: 5px solid white;
+  border-radius: 6px;
   margin-top: 10px;
   height:400px;
   width: 400px;
@@ -82,6 +86,8 @@ margin-top: 4px;
   background-position: center;
 }
 .gift-3{
+  border: 5px solid white;
+  border-radius: 6px;
   margin-top: 10px;
   height:400px;
   width: 400px;
@@ -98,6 +104,8 @@ margin-top: 4px;
   background-position: center;
 }
 .gift-4{
+  border: 5px solid white;
+  border-radius: 6px;
   margin-top: 10px;
   height:400px;
   width: 400px;
@@ -114,6 +122,8 @@ margin-top: 4px;
   background-position: center;
 }
 .gift-5{
+  border: 5px solid white;
+  border-radius: 6px;
   margin-top: 10px;
   height:200px;
   width: 400px;
